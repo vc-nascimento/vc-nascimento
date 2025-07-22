@@ -3,7 +3,7 @@ Oiii! Sou a Vitória Nascimento 👋
 
 
 - 💻 Estou trabalhando como QA
-- 👩🏽‍💻 Atualmente estou aprenedendo automação de testes
+- 👩🏽‍💻 Atualmente estou aprendendo automação de testes
 - 📚 Sou estudante de ADS, e técnica em Informática
 
 
