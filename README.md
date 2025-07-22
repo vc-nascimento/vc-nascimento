@@ -10,8 +10,9 @@ Oiii! Sou a Vitória Nascimento 👋
   <div style="display: inline_block"><br>
   <img align="center" alt="Vitoria" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitoria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt"Vitoria-vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
-  
+  <img align="center" alt="Vitoria-vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+
+
 
 
 </div>
